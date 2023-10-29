@@ -10,6 +10,7 @@
     "lint:fix": "next lint --fix"
   },
   "dependencies": {
+    "@hookform/resolvers": "^3.3.2",
     "@prisma/client": "^5.5.2",
     "@radix-ui/themes": "^2.0.0",
     "@typescript-eslint/eslint-plugin": "^6.9.0",
